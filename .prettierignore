@@ -1,0 +1,10 @@
+# Ignore artifacts: 
+ build 
+ coverage 
+  
+ **/*.min.js 
+ **/*.min.css 
+  
+ .idea/ 
+ node_modules/ 
+ dist/
